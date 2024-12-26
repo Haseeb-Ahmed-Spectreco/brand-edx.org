@@ -94,8 +94,8 @@ $theme-colors: map-merge(
 
 $primary-100: mix(white, $primary, 94%) !default;
 $primary-200: mix(white, $primary, 75%) !default;
-$primary-300: mix(white, $primary, 50%) !default;
-$primary-400: mix(white, $primary, 25%) !default;
+$primary-300: #bc18235a !default;
+$primary-400: #bc18234a !default;
 $primary-500: $primary !default;
 $primary-600: mix(black, $primary, 10%) !default;
 $primary-700: mix(black, $primary, 20%) !default;
